@@ -1,8 +1,8 @@
 # pub_electron-phaser-desktop-game-sample
 
-## Explanatory Article
+## Explanatory Article(ja)
 
-WIP
+[Electron + Phaser でデスクトップゲームアプリ開発！Nintendo Switch Pro コントローラーで操作しよう編](https://zenn.dev/t_tonyo_maru/articles/b12ff77cd0d7f6)
 
 ## Development Environment
 
@@ -26,3 +26,8 @@ WIP
 3. Run `npm run start` command
 4. Connect Nintendo Switch Pro Controller to PC by Bluetooth or USB cable.
 5. Play electron-phaser-desktop-game.
+
+## Links
+
+- Electron: https://www.electronjs.org/
+- Phaser: https://phaser.io/
