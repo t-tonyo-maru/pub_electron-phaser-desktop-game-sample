@@ -8,10 +8,10 @@
 
 | Name       | Version  |
 | ---------- | -------- |
-| Node.js    | >=22.0.0 |
-| Electron   | 36.0.0   |
-| Phaser     | ^3.88.2  |
-| TypeScript | ~4.5.4   |
+| Node.js    | >=24.12.0 |
+| Electron   | 39.2.7   |
+| Phaser     | ^3.90.0  |
+| TypeScript | ~5.9.3   |
 
 ## Commands
 

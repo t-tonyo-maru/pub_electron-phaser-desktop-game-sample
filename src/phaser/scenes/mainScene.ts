@@ -1,7 +1,6 @@
 import Phaser from 'phaser';
-
-import BUTTON_PLUS from '../../assets/images/controllers/+.png';
 import BUTTON_MINUS from '../../assets/images/controllers/-.png';
+import BUTTON_PLUS from '../../assets/images/controllers/+.png';
 import BUTTON_A from '../../assets/images/controllers/a.png';
 import BUTTON_B from '../../assets/images/controllers/b.png';
 import CAPTURE from '../../assets/images/controllers/capture.png';
